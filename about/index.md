@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: About - Aliaksei Pilko
 tags: [about]
 date: 2020-03-30
 comments: false

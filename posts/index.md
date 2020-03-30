@@ -1,6 +1,7 @@
 ---
 layout: post-list
-title: All Posts
-excerpt: "A List of Posts"
+title: Posts - Aliaksei Pilko
+excerpt: "Posts"
 comments: false
 ---
+
