@@ -1,14 +1,14 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Aliaksei Pilko
+bio:                'Aerospace Engineering Student'
+description:        "Dedicated 3rd year Aerospace Engineering student with a strong academic record. A love for aviation; glider pilot also pursuing a Private Pilot Licence. Proven design and manufacturing experience with extensive programming, machine learning and data science knowledge, and strong teamwork and leadership abilities. Particular interest in Unmanned Traffic Management (UTM) and Autonomous Aerial Systems."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                https://taylantatli.github.io/Moon
+locale:             en_GB
+url:                https://aliakseipilko.com
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+# disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,20 +37,20 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+email:              aliaksei@aliakseipilko.com
+# twitter:            username
+facebook:           aliaksei.pilko
+github-url:         https://github.com/aliaksei135
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           aliakseipilko
 #xing:              username
-instagram:          username
+instagram:          aliaksei.pilko
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+# steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
@@ -58,7 +58,7 @@ steam:              username
 #weibo:             username
 #flickr:            username
 #codepen:           username
-#keybase:           username
+keybase:            aliakseipilko
 #xmpp:              username@server.com
 #hackernews:        username
 
