@@ -4,7 +4,8 @@ title:  "SEEDPOD Airspace UAV Simulation"
 date:   2020-05-01
 excerpt: "Airspace Simulation proof of concept University Project"
 project: true
-tag:[]
+tag:
+  - Project
 comments: false
 ---
 Agent-based UAV airspace capacity and risk simulation as part of [SEEDPOD project](https://cascadeuav.com/seedpod/). Simulation programmed in Java based on the Repast framework.

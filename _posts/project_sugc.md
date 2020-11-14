@@ -4,7 +4,8 @@ title:  "Southampton University Gliding Club Website"
 date:   2020-07-01
 excerpt: "Gliding Club Web App"
 project: true
-tag:[]
+tag:
+  - Project
 comments: false
 ---
 ![SUGC](https://www.susu.org/groups/logos/206_1569241536.jpg)
